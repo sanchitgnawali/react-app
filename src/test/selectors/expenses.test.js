@@ -1,6 +1,6 @@
 // import selectExpenses from '../../selectors/expenses';
 //
-// const expenses = [{
+// const expenses.js = [{
 //     id: '1',
 //     description: 'rent',
 //     note: 'simple note',
@@ -31,9 +31,9 @@
 //         endDate: undefined
 //     };
 //
-//     const result = selectExpenses(expenses,filters);
+//     const result = selectExpenses(expenses.js,filters);
 //
-//     expect(result).toEqual([expenses[1]]);
+//     expect(result).toEqual([expenses.js[1]]);
 //
 // });
 
